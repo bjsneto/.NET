@@ -1,2 +1,2 @@
-# NET Framework
-Repositório dedicado aos testes técnicos de entrevista que passei ou futuramente passará
+# NET Framework e NET CORE
+Repositório dedicado aos testes técnicos de entrevista que passei
